@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "jobRole": "Software Engineer",
+      "location": "Bengaluru"
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "jobRole": "Software Engineer",
+      "location": "Mumbai"
+    },
+    {
+      "id": 3,
+      "name": "Amit Singh",
+      "jobRole": "Data Scientist",
+      "location": "Delhi"
+    },
+    {
+      "id": 4,
+      "name": "Divya Shah",
+      "jobRole": "Data Scientist",
+      "location": "Hyderabad"
+    },
+    {
+      "id": 5,
+      "name": "Kiran Gupta",
+      "jobRole": "Frontend Developer",
+      "location": "Chennai"
+    },
+    {
+      "id": 6,
+      "name": "Ananya Verma",
+      "jobRole": "Frontend Developer",
+      "location": "Kolkata"
+    },
+    {
+      "id": 7,
+      "name": "Rajesh Mishra",
+      "jobRole": "Business Analyst",
+      "location": "Pune"
+    },
+    {
+      "id": 8,
+      "name": "Business Analyst",
+      "jobRole": "Graphic Designer",
+      "location": "Bengaluru"
+    },
+    {
+      "id": 9,
+      "name": "Aman Joshi",
+      "jobRole": "Full Stack Developer",
+      "location": "Mumbai"
+    },
+    {
+      "id": 10,
+      "name": "Sneha Kapoor",
+      "jobRole": "HR Manager",
+      "location": "Delhi"
+    }
+
+  ]
+  
